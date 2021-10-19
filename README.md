@@ -3,13 +3,13 @@
 
 
 
-### My contact networks
+###  My contact networks 🔎
 
 - Find me in [Twitter](https://twitter.com/sr_jito)
 - Research more of me in [Linkedin](https://www.linkedin.com/in/sergio-sanhueza-osorio-b289b4124/)
 
 
-### About me
+### About me 🕵️‍♂️
 
 I´m a developer with experience in frontend tecnologies, with wish of be a software engineer, some tecnologies that i enjoy to use are JavaScript, CSS, HTML, ReactJS. often i working in personal proyects for increase my skills and learn about new tecnologies.
 
@@ -20,7 +20,7 @@ I´m a developer with experience in frontend tecnologies, with wish of be a soft
 
 💬 Ask me about whatever you want 😃
 
-### Proyects
+### Proyects 🚀
 
 Some proyects that i make:
 
