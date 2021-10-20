@@ -20,7 +20,7 @@ I´m a developer with experience in frontend tecnologies, with wish of be a soft
 
 💬 Ask me about whatever you want 😃
 
-### Proyects 🚀
+### Projects 🚀
 
 Some proyects that i make:
 
