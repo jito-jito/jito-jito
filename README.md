@@ -11,23 +11,22 @@
 
 ### About me 🕵️‍♂️
 
-I´m a developer with experience in frontend tecnologies, with wish of be a software engineer, some tecnologies that i enjoy to use are JavaScript, CSS, HTML, ReactJS. often i working in personal proyects for increase my skills and learn about new tecnologies.
+I´m a developer with experience in Frontend technologies, with the dream of become a Software Engineer. The main languages and frameworks I enjoy using are JavaScript, CSS, HTML and ReactJS. I 'm also working on personal projects in order to develop my skills in a higher level.
 
+🌱 I’m currently learning about ReactJS
 
-🌱 I’m currently learning about React.js
-
-🤔 I’m looking for help with Backend tecnologies
+🤔 I’m looking for help with Backend technologies
 
 💬 Ask me about whatever you want 😃
 
 ### Projects 🚀
 
-Some proyects that i make:
+Some projects that I made:
 
 - [TODO Machine](https://jito-jito.github.io/Basic-of-React---Project-TODO-Machine/)
 - [Invoice generator](https://jito-jito.github.io/GeneradorDeFacturas/)
 
-### Some tecnologies i use:
+### Some technologies I use:
 
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
