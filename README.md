@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-
+![portada2](https://user-images.githubusercontent.com/75919670/138523670-7ac974a0-f4f6-45ca-8e3b-2ca485ff0df4.jpg)
 
 
 ###  My contact networks 🔎
 
 - Find me in [Twitter](https://twitter.com/sr_jito)
 - Research more of me in [Linkedin](https://www.linkedin.com/in/sergio-sanhueza-osorio-b289b4124/)
+
 
 
 ### About me 🕵️‍♂️
