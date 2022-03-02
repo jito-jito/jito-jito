@@ -24,8 +24,12 @@ I´m a developer with experience in Frontend technologies, with the dream of bec
 
 Some projects that I made:
 
+- [Personal Portfolio](https://www.sergiosanhueza.com/)
+- [Gethired Code Tracker](https://get-hired-code-tracker.vercel.app/)
+- [Marvel Comic App](https://marvel-comic-app.vercel.app/)
+- [Invoice Generator](https://jito-jito.github.io/GeneradorDeFacturas/)
 - [TODO Machine](https://jito-jito.github.io/Basic-of-React---Project-TODO-Machine/)
-- [Invoice generator](https://jito-jito.github.io/GeneradorDeFacturas/)
+
 
 ### Some technologies I use:
 
